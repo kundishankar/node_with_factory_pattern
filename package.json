@@ -1,0 +1,19 @@
+{
+  "name": "node_with_factory_pattern",
+  "version": "1.0.0",
+  "description": "nodejs with factory design pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kundishankar/node_with_factory_pattern.git"
+  },
+  "author": "shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kundishankar/node_with_factory_pattern/issues"
+  },
+  "homepage": "https://github.com/kundishankar/node_with_factory_pattern#readme"
+}
